@@ -1,0 +1,11 @@
+a=123
+b=56.678
+c="Sweety"
+d=False
+e=54-6j
+print(a,b,c,d,e)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
